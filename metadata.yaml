@@ -1,11 +1,16 @@
 _repo: Bee-Keeping-for-Profit-A-New-System-of-Bee-Management-1891_67770
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67770-h/images/cover.png
 creator:
   author:
     agent_name: Cotton, Lizzie E.
     gutenberg_agent_id: '54450'
     url: http://www.gutenberg.org/2009/agents/54450
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67770#Bee-Keeping-for-Profit-A-New-System-of-Bee-Management-1891
 gutenberg_issued: '2022-04-04'
 identifiers:
   gutenberg: '67770'
